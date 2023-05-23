@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-iris: #5D3FD3;
+}
+
+body {
+  color: black;
+  background-color: white;
+}
